@@ -1,7 +1,7 @@
 # Manualy Split Bill
 
 ## 📌 Deskripsi Proyek
-Proyek ini dibuat untuk kamu kalo mau spllit bill dengan teman-teman mu secara manual. Mungkin memang terkesan jelek biasa saja. Gak ada embel-embel AI dan Machine Learning pada proyek kali ini (sejenak rehat dani dunia sains data). Karena pada dasarnya proyek ini dibuat untuk melatih pemahaman alur algoritma dan pembuatan struktur data
+Proyek ini dibuat untuk kamu kalo mau spllit bill dengan teman-teman mu secara manual. Mungkin memang terkesan jelek biasa saja tapi yang penting bisa berguna. Gak ada embel-embel AI dan Machine Learning pada proyek kali ini (sejenak rehat dari dunia sains data). Karena pada dasarnya proyek ini dibuat untuk melatih pemahaman alur algoritma dan pembuatan struktur data
 
 
 ## 🚀 Cara Menggunakan Program
