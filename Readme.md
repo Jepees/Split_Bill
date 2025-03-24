@@ -6,10 +6,10 @@ Proyek ini dibuat untuk kamu kalo mau spllit bill dengan teman-teman mu secara m
 
 ## 🚀 Cara Menggunakan Program
 ### 1️⃣ **Download SplitBill.py**  
-download file py yang tersedia kemudia letakan pada sebuah folder baru.
+download file py yang tersedia kemudian letakan pada sebuah folder baru.
 
 ### 2️⃣ Instalasi Dependensi
-Pastikan Python 3.8+ dan pastikan terdapat pandas v2.2.3++
+Pastikan Python 3.8+ terinstal dan pastikan terdapat pandas v2.2.3++ pada env mu
 
 ### 3️⃣ Buat file ipynb baru kemudian import py tadi
 buat file ipynb pada folder yang sama dengan letak file SplitBill.py tadi. kemudian import splitbill
