@@ -52,7 +52,7 @@ Setelah semua langkah selesai di layar akan ditampilkan hasil dari split bill ka
 - rincian pesanan dari masing-masing teman mu dan total tagihan yang harus dibayarkan
 - (hanya) total tagihan yang harus dibayarkan
 
-terimakasih sudah ikut gabut bersama Jeepes!!
+terimakasih sudah ikut gabut bersama Jepees!!
 
 ## 🚀 Target dan Harapan Pengengembangan
 - membuat dan melatih arsitektur deep learning berbasis convulutional neural network ataupun melatih model machine learning tradisional untuk membaca script/struk belanja agar user tidak perlu secara manual menginput data pesanan
